@@ -6,7 +6,7 @@ author: content/data/team/hilary-ouse.json
 excerpt: Brand development
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2021-11-22 at 18.47.13.png
+  url: /images/Screenshot 2021-11-21 at 19.40.24.png
   altText: Post Image
   caption: This is the caption of the image
 bottomSections:
